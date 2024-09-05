@@ -71,6 +71,8 @@ This section describes the functionality of the command-line tools for training 
 
 - **Model Hyperparameters**: 
   - The script allows users to set hyperparameters such as learning rate, number of hidden units, and training epochs.
+  - 
+confirm.udacity.com/e/85afd4d0-6c23-11ee-a521-735df0b7fb4d
 
 - **Training with GPU**: 
   - Users can opt to train the model on a GPU, improving training speed.
